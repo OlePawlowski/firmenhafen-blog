@@ -10,7 +10,7 @@ Der erste Absatz nennt das Hauptstichwort und sagt, worum es geht.
 
 ## Eine Zwischenüberschrift
 
-Text mit **fett**, *kursiv* und einem [Link zu den Preisen](/preise).
+Text mit **fett**, *kursiv* und einem [Link zu den Preisen](/#preise).
 
 - Erster Punkt
 - Zweiter Punkt

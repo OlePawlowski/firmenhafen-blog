@@ -22,7 +22,7 @@ Sonst nichts. Ändere nie `README.md`, `CLAUDE.md` oder sonstige Dateien, es sei
 - Themen zum Beispiel: Geschäftsadresse vs. c/o-Adresse, Impressumspflicht, Handelsregister und Sitz, Gewerbeanmeldung, Gründung in Berlin, Post digital bearbeiten, Virtual Office im Vergleich.
 - Fakten: Nenne Preise, Leistungen und Bedingungen von Firmenhafen nur, wenn sie auf firmenhafen.de stehen. Erfinde keine Zahlen, Zitate, Studien, Kundenaussagen oder Rechtsfolgen. Wenn du etwas nicht sicher weißt, lass es weg oder markiere es für Ole.
 - Keine Rechts- oder Steuerberatung. Bei rechtlichen Themen allgemein bleiben und auf Steuerberatung oder Rechtsanwalt verweisen.
-- Interne Links relativ schreiben: `/preise`, `/buchung.html`, `/blog/<dateiname-ohne-datum-und-endung>`.
+- Interne Links relativ schreiben: `/#preise`, `/buchung.html`, `/impressum`, `/blog/<dateiname-ohne-datum-und-endung>`.
 - Bilder: immer mit `bild-alt` bzw. Beschreibung im Bildtext.
 
 ## Pflichtfelder und Status

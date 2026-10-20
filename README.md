@@ -27,7 +27,7 @@ Erster Absatz mit dem Hauptstichwort.
 
 ## Zwischenüberschrift
 
-Text, **fett**, *kursiv*, [Link auf eine Seite](/preise) und Listen:
+Text, **fett**, *kursiv*, [Link auf die Preise](/#preise) und Listen:
 
 - Punkt eins
 - Punkt zwei
